@@ -10,9 +10,9 @@ uvicorn index:app --reload
 ```
 #unit tests
 ```
-pytest
-```
 
+```
+pytest
 
 ```
 Start server : docker
